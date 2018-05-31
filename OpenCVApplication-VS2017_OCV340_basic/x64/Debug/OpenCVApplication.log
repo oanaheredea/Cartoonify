@@ -1,0 +1,13 @@
+﻿  OpenCVApplication.cpp
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(512): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(606): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(634): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(741): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(252): warning C4715: 'testCanny': not all control paths return a value
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(431): warning C4715: 'OpenImage': not all control paths return a value
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(442): warning C4715: 'OpenColorImage': not all control paths return a value
+c:\users\oana heredea\desktop\toonify\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(498): warning C4715: 'compareMyType': not all control paths return a value
+  OpenCVApplication.vcxproj -> C:\Users\Oana Heredea\Desktop\toonify\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
